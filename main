@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T-Shirt Druck Berlin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            text-align: center;
+            padding: 40px 20px;
+        }
+        h1 { font-size: 2.5rem; color: #00d2ff; }
+        p { font-size: 1.2rem; color: #ccc; }
+        .btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 15px 30px;
+            background-color: #00d2ff;
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Willkommen bei meiner T-Shirt Manufaktur</h1>
+    <p>Handbedruckte Shirts & individuelle Motive aus Berlin.</p>
+    <a href="mailto:deine-email@beispiel.de" class="btn">Jetzt Anfragen</a>
+</body>
+</html>
