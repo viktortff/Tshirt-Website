@@ -1,19 +1,38 @@
-<!-- Produkt-Karte -->
-<div style="border: 1px solid #333; padding: 20px; text-align: center; max-width: 300px; border-radius: 10px; margin: 20px auto;">
-    <h2>Kreuzberg T-Shirt</h2>
-    <p>Berlin Streetwear, handbedruckt.</p>
-    
-    <!-- Vinted Kauf-Button -->
-    <a href="https://www.vinted.de/items/9865299725-kreuzberg-t-shirt-berlin-streetwear" target="_blank" style="
-        display: inline-block;
-        background-color: #09b1ba;
-        color: white;
-        padding: 12px 20px;
-        text-decoration: none;
-        font-weight: bold;
-        border-radius: 8px;
-        margin-top: 10px;
-    ">
-        Auf Vinted kaufen
-    </a>
-</div>
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kreuzberg T-Shirts</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #121212; color: white; text-align: center; padding: 20px;">
+
+    <h1>Kreuzberg T-Shirts</h1>
+    <p>Berlin Streetwear</p>
+
+    <!-- Produkt-Karte -->
+    <div style="border: 1px solid #333; background-color: #1e1e1e; padding: 20px; text-align: center; max-width: 300px; border-radius: 12px; margin: 20px auto;">
+        
+        <!-- Dein hochgeladenes T-Shirt Bild -->
+        <img src="IMG_3670.jpeg" alt="Kreuzberg T-Shirt" style="width: 100%; border-radius: 8px;">
+        
+        <h2>Kreuzberg T-Shirt</h2>
+        <p style="color: #aaa;">Berlin Streetwear, handbedruckt.</p>
+        
+        <!-- Dein Vinted Kauf-Button -->
+        <a href="https://www.vinted.de/items/9865299725-kreuzberg-t-shirt-berlin-streetwear" target="_blank" style="
+            display: inline-block;
+            background-color: #09b1ba;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+            margin-top: 10px;
+        ">
+            Auf Vinted kaufen
+        </a>
+    </div>
+
+</body>
+</html>
